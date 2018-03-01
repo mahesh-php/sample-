@@ -1,8 +1,3 @@
-<?php 
-//http://cricscore-api.appspot.com/csa
-$data=file_get_contents('http://cricscore-api.appspot.com/csa?id=1122281');
-$x=json_decode($data);
-?>
 <!DOCTYPE html>
 <html>
 <head>
